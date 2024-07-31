@@ -25,3 +25,17 @@
 #container a {
   text-decoration: none;
 }
+.body{
+  background-color: aquamarine;
+  height: 100%;
+}
+
+img {
+  margin-top: 150px;
+}
+
+ion-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
